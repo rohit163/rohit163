@@ -1,5 +1,4 @@
-### Hi there 👋
- ### Hi there, I'm Rohit 👋 
+### Hi there, I'm Rohit 👋 
 
 ## I'm a Web Developer, Flutter Enthusiast and Teacher! 👋
 <p align="center"> 
@@ -89,3 +88,7 @@
 > - ⚡ Fun fact **I transform coffee to code**
 
 <br/>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit163&show_icons=true&locale=en&layout=compact" alt="sarveshh" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohit163&show_icons=true&locale=en" alt="sarveshh" /></p>
